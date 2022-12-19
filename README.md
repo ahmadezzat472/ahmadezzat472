@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Langs]
-
-
+<p align="center">
+<img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="150"> <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="150"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="150"> <img src="https://media.giphy.com/media/UWt0rhp21JgLwoeFQP/giphy.gif" width ="150"/> <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width ="150"/> 
+</p>
 <h2 align="Center">  Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 ## Reach me 
@@ -78,4 +78,22 @@ Here are some ideas to get you started:
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress)
 ![Joomla](http://img.shields.io/badge/-Joomla-FC8F30?style=flat-square&logo=joomla&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laxminagln&layout=compact)
+<h2><i>Follow me:</i></h2>
+<div  align="center">
+
+  <a href="https://www.linkedin.com/in/oussama-bouchikhi-49a0b6193/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/ousstheboss/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/oussama.bouchikhi.98" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
+  </a>
+
+ <a href="https://twitter.com/oussth3boss/" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
+  </a>
+   <a href="mailto:oussamabouchikhi700@gmail.com" mailto="oussamabouchikhi700@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%231877F2.svg?&style=flat-square&logo=gmail&logoColor=white&color=071A2C" alt="Gmail">
+  </a>
