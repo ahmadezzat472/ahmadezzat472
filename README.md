@@ -4,8 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px></picture>
 
-⏬
-I'm a software Engineer Student who is passionate about studying software and solving problems, and I am interested in the web field and always try to improve my skills.
+⏬ I'm a software Engineer Student who is passionate about studying software and solving problems, and I am interested in the web field and always try to improve my skills.
 
 <br>
 <br>
@@ -36,13 +35,13 @@ I'm a software Engineer Student who is passionate about studying software and so
 [![My Skills](https://skillicons.dev/icons?i=css,html,bootstrap,jquery,git,github&perline=10)](https://skillicons.dev)
 <a href="https://samujjwaal.tech/"><img src="https://github.com/samujjwaal/samujjwaal/raw/master/etc/coffee.png" align="right" height="275" /></a>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" height="8">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="65%" height="8">
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> programming language :
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,java&perline=15)](https://skillicons.dev)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="70%" height="8">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="65%" height="8">
 
 ### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Database :
 
