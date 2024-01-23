@@ -4,8 +4,6 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+I'm+Ahmed+Ezzat&hearts;++;software+Engineer+Student;I'am+interested+in+the+web+field."></a>
 
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px></picture>
-
 ⏬ my website <a href="#" target="_blank">PRESS</a>
 <br>
 ⏬ I'm a software Engineer Student who is passionate about studying software and solving problems, and I am interested in the web field and always try to improve my skills.
