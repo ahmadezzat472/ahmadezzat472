@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm [Ahmed Ezzat](https://github.com/ahmadezzat472) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+I'm+Ahmed+Ezzat&hearts;software+Engineer+Student;I'am+interested+in+the+web+field;and+always+try+to+improve+my+skills+in+PROBLEM+SOLVING+and+WEB+DEVLOPMENT."></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=black&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+I'm+Ahmed+Ezzat&hearts;++;software+Engineer+Student;I'am+interested+in+the+web+field;and+always+try+to+improve+my+skills+in+PROBLEM+SOLVING+and+WEB+DEVLOPMENT."></a>
 
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 200px></picture>
