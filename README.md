@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Ahmed%20Ezzat&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20Student&descAlignY=55&descAlign=50" width="100%" alt="Profile Header Banner with Ahmed Ezzat Name"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=Ahmed%20Ezzat&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20Student&descAlignY=55&descAlign=50" width="100%" alt="Profile Header Banner with Ahmed Ezzat's Name"/>
 </div>
 
 <div align="center">
