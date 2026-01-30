@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=header&text=Ahmed%20Ezzat&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=120&section=header&text=Ahmed%20Ezzat&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" alt="Profile Header Banner with Ahmed Ezzat Name"/>
 </div>
 
 <h2 align="center">💻 Software Engineer Student</h2>
@@ -41,7 +41,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,git,github,c,cpp,java,mysql,firebase,nextjs,vscode,ps,ai&perline=10" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,git,github,c,cpp,java,mysql,firebase,nextjs,vscode,ps,ai&perline=10" alt="Programming Languages and Tools Icons"/>
   </a>
 </p>
 
@@ -90,5 +90,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=100&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=100&section=footer" width="100%" alt="Footer Wave Banner Decoration"/>
 </div>
