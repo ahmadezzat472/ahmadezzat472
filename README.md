@@ -30,7 +30,7 @@
         
 ```javascript
 const ahmadEzzat = {
-    pronouns: "He" | "Him",
+    pronouns: "He/Him",
     role: "Software Engineer Student",
     location: "Egypt 🇪🇬",
     education: "Bachelor's in Software Engineering",
@@ -56,7 +56,7 @@ const ahmadEzzat = {
 
 <div align="center">
   
-  🌱 Passionate about **studying software** and **solving problems**  
+  🌱 Passionate about **software engineering** and **problem solving**  
   💻 Always **improving my skills** in the **web development field**  
   🎯 Currently focusing on **front-end technologies** and **modern frameworks**  
   🚀 Love to **explore new technologies** and **build creative solutions**  
