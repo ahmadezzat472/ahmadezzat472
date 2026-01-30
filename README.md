@@ -54,14 +54,14 @@
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ahmadezzat472&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadezzat472&theme=dark" alt="GitHub Streak" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ahmadezzat472&show_icons=true&theme=dark" alt="GitHub contribution statistics for ahmadezzat472" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadezzat472&theme=dark" alt="Contribution streak statistics for ahmadezzat472" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadezzat472&layout=compact&theme=dark" alt="Top Languages" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadezzat472&layout=compact&theme=dark" alt="Most used programming languages by ahmadezzat472" />
 </div>
 
 <br/>
