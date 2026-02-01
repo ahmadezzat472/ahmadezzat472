@@ -112,7 +112,7 @@ const ahmadEzzat = {
 <div align="center">
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ahmadezzat472&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub contribution statistics for ahmadezzat472" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadezzat472&theme=tokyonight&hide_border=true" alt="Contribution streak statistics for ahmadezzat472" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=ahmadezzat472&theme=tokyonight&hide_border=true" alt="Contribution streak statistics for ahmadezzat472" />
   
 </div>
 
@@ -125,7 +125,7 @@ const ahmadEzzat = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadezzat472&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadezzat472&theme=tokyonight&hide_border=true&area=true" width="95%" alt="Contribution Graph"/>
 </div>
 
 <br/>
